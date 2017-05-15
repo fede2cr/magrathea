@@ -1,30 +1,51 @@
 # magrathean_terraforming_services
-Robotic tools for reversing deforestation, improving biodiversity and forest managment
+Robotic tools for reversing deforestation, improving biodiversity and forest management
 
 ## Description
 
-This project is about robotic assisted planting through seed bombs instead of germinated plants, delivered via drone through a regime of several years, utilizing clusters of existing plants to increase the perimeter of productive land. This tools can be used in desertification reversal, deforestation reversal, improving tertiary and secundary forests, and by increasing biodiversity on comercial forestry operations.
+This project is about robotic assisted planting through seed bombs instead of germinated plants, delivered via drone through a regime of several years, utilizing clusters of existing plants to increase the perimeter of productive land. This tools can be used in desertification reversal, deforestation reversal, improving tertiary and secondary forests, and by increasing biodiversity on commercial forestry operations.
 
 ## Some basics
 
-- Seed bombs
+- Seed bombs: Also called seed ball, is a packet of diverse local seeds, mixing different species as well as different types of plants, in some form of casing, normally a volcanic clay. This are used in a concept called guerrilla gardening, where activist would find undeveloped land in the city and without permission "bomb" it with floral species to improve urban spaces and attract bird and butterflies. I'm experimenting with 3d printed molds for the clay in triangular shapes, and including discarded barley from my brewery, inoculated with mycorrizal fungi.
 
-- Drone sowing and monitoring
+- Orchid bullets: Some plant species won't work well under the clay pellet concept known as a seed bomb, so special adaptation will be included for orchids. Instead of hard clay designed to germinate on land and be trowed from aerial drones, they will be shot from a gun close to a paintball gun. It's designed as a sticky mildly nutritional medium that will contain un-germinated orchid seeds, and to be shot at established mature trees. Experimental medium test have started with plantain mash, gelatin, and agar.
 
-- 4d forest printing
+- Drone sowing and monitoring: Instead of sowing seed bombs by hand we are experimenting with autonomous routines that will take a drone to GPS coordinates and add a precise packet to the are. This is for experimental use only, as we can track seed bombs almost individually, but more interesting mark seeds for viability, germination rate of tree species in areas and soils.
 
-- Lack of external irrigation of any kind
+- 4d forest printing: This is my technique with the premise that just like healthy forests deteriorate in the circular patterns of mycorrizal fungi, they must also be restored over time where in a severely degraded soil only some plants will germinate, some will die during harsh dry seasons and only a few patches will remain green and growing during a full year. This patches will be used next year to grow a perimeter around, and when patches grow big enough biocorridors will be established by using the same idea. Small open patches might be ignored as another premise is that they will be closed in time as insects, birds and mammals return to the improved space.
+
+- Lack of external irrigation of any kind: The natural landscape will be observed and planned acordingly, to start growing green patches on areas where soil moisture is readily available such as surface dry rivers but specially existent river banks. On non-degraded soils, the density of trees with deep roots will be higher to promote cloud generation. This might imply that the technique will be more efficient if applied on contiguous land to maximize cloud coverage over local areas and will make 4d forest printing easier by improving available moisture levels and soil moisture retention.
 
 ## Monitoring and progress
 
+Drone will also be used to make 3 to 6 months sequence of the selected areas, and use this information to calculate biomass and growth. All data will be uploaded to OpenAerialMap.
+
+Biomass index and growth will be compared with Open Data available after coordination with several local forestry services that have relevant data but not available at the moment to the public or normalized for easy use.
+
 ## Protocol and test areas
+
+For testing the proposed techniques we are looking for:
+- Tertiary forests with mild degradation: The objectives will be to improve biodiversity and coverage, connections with biocorridors
+- Partly degraded/old pasture: With partial dry climate they present a challenge in the types of plants used and the model of growth for 4d forest printing. Potential plots are being selected in Esparza (Puntarenas), or Liberia (Guanacaste)
+- Completely degraded soil: Such as old mines, old quarries or drought effected.
+
+An initial map of the area will be created with the use of a drone, aerial map uploaded to OpenAerialMap and it's tiles used as grid for analyzing small areas of land and their individual progress.
+
+## Scenarios
+
+### Reverse deforestation/desertification
+
+### improving biodiversity
+
+### Forest management
 
 ## Species selection criteria
 
-- Local: The surroundings to the test area are surveyed for native species that are quantified to generate a representation of the population to be planted. Seeds should be gattered from local trees and if not available from several mother trees instead of just one or a few. Non-native species are to be avoided and only allow in cases of severe damage which are not a concern in initial tests.
+- Local: The surroundings to the test area are surveyed for native species that are quantified to generate a representation of the population to be planted. Seeds should be gathered from local trees and if not available from several mother trees instead of just one or a few. Non-native species are to be avoided and only allow in cases of severe damage which are not a concern in initial tests.
 
-- Provides food to fauna: Flowers for hummingbirds, bats and butterflies; fruits for mammals and reptils.
+- Provides food to fauna: Flowers for hummingbirds, bats and butterflies; fruits for mammals and reptiles.
 
 - Provides food to human communities: Fruits and vegetables are planted near communities to provide with natural and free food.
 
-- Increase biodiversity: Experiments to include more than seeds are in place with orquid seed trials, mychrorizae, worms, dung beetles and fern spores.
+- Increase biodiversity: Experiments to include more than seeds are in place with orchid seed trials, mychrorizae, worms, dung beetles and fern spores.
