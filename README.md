@@ -36,9 +36,17 @@ An initial map of the area will be created with the use of a drone, aerial map u
 
 ### Reverse deforestation/desertification
 
-### improving biodiversity
+### Improving biodiversity
+
+Some areas that where used as pasture land, have lost the ability to retain moisture through the seasons so are seen as unfit land, and abandoned. Most of this land is prime material for creating biocorridors. Some has been abandoned for a while and have improved to tertiary forest.
+
+Field work and mapping will determine the quality of the forest by using indicators such as the variety and amount of orchids, mature trees, likens, birds and mammals captured through camera-traps.
+
+Once the overall quality of the area is determined, forest 4d printing will be used to improve the variety of trees gathered from local seeds as well as endangered species of trees. On mature trees orchid and likens bullets be fired by humans via paintball guns or similar.
 
 ### Forest management
+
+Monocultive of tree for the wood industry is common. With forest 4d printing a greater biodiversity can be achived, allowing the land to be productive and support wildlife even when trees destined for production are young.
 
 ## Species selection criteria
 
@@ -63,3 +71,18 @@ Some of the experiments so far are of proper seed retrieval and storing, and ger
 Orchid research material includes several book of Costa Rican orchids, propagation, cultivation, troubleshooting and of orchids of the World.
 
 ![Orchid research](https://github.com/fede2cr/magrathean_terraforming_services/blob/master/doc/img/research_library/Orquídeas.gif "Orchid research")
+
+
+## Further research
+
+### Liken, moss, fern and cactus propagation and species catalog
+
+I need to study more plant species identification to use them as metrics for forest quality, and also ways to propagate via similar methods to orchid bullets.
+
+### Plants incompatible with seed bomb methods
+
+Not all plant work well with this methods. A list of them must be compiled and used to invite the community of citizen scientist for different seed bomb methods, and different stages of maturity of the plant.
+
+### Tapirs
+
+This beautiful american mammal disperses seeds and naturally takes seed out of exogenous dormancy, fertilized and ready to germinate. Even if robotic methods of seed dispersal get to be extremely efficient and cheap, and new techniques are developed for improved germination of complicated species, tapirs must be used as well with the additional benefits of fertilizing and trampling the ground, and as food for endangered felines.
