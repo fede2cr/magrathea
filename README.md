@@ -62,4 +62,4 @@ Some of the experiments so far are of proper seed retrieval and storing, and ger
 
 Orchid research material includes several book of Costa Rican orchids, propagation, cultivation, troubleshooting and of orchids of the World.
 
-![Orchid research](https://github.com/fede2cr/magrathean_terraforming_services/blob/master/doc/img/research_library/Orquídeas.gif "Orchid research)
+![Orchid research](https://github.com/fede2cr/magrathean_terraforming_services/blob/master/doc/img/research_library/Orquídeas.gif "Orchid research")
