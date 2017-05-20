@@ -49,3 +49,17 @@ An initial map of the area will be created with the use of a drone, aerial map u
 - Provides food to human communities: Fruits and vegetables are planted near communities to provide with natural and free food.
 
 - Increase biodiversity: Experiments to include more than seeds are in place with orchid seed trials, mychrorizae, worms, dung beetles and fern spores.
+
+### Plant types
+
+A mix of grasses, moss, pioneer plants and trees will be added. Some families have been researched more than others due to their biodiversity contribution, bio-remediation potential and human value.
+
+#### Orchids
+
+From my own orchids plus from local seed banks, I'm conducting research on ways to germinate that don't required the sterile environment that is used for in-vitro cultivation with the downside of lowered germination success but with ease of application.
+
+Some of the experiments so far are of proper seed retrieval and storing, and germination in wood pulps, recycled paper pulps and egg cartons. After the seeds germinate in a fruit compote, young protocorms are moved to paper pulp molds with a form of hydrogel to provide moisture. The paper bottom on the mold is thinner than the rest of the mold, and here we put an organic glue such as cornstarch glue. Other proposed delivery methods include a colloid or gel with the un-germinated seeds.
+
+Orchid research material includes several book of Costa Rican orchids, propagation, cultivation, troubleshooting and of orchids of the World.
+
+![Orchid research](https://github.com/fede2cr/magrathean_terraforming_services/blob/master/doc/img/research_library/Orquídeas.gif "Orchid research)
