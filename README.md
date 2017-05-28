@@ -36,6 +36,12 @@ An initial map of the area will be created with the use of a drone, aerial map u
 
 ### Reverse deforestation/desertification
 
+Severe drought, intensive agronomy and improper soil management have been degrading productive land, specially in the north of Costa Rica.
+
+Current forestry techniques are proving ineffective in this areas as the high temperature of the summer and the lack of humidity and water retention by the soil kill the young immature trees in large numbers, requiring artificial irrigation and more years to grow in the nursery.
+
+Forest 4d printing incorporates pioneer plant species and gradually set up ground cover and mild shade needed for young trees.
+
 ### Improving biodiversity
 
 Some areas that where used as pasture land, have lost the ability to retain moisture through the seasons so are seen as unfit land, and abandoned. Most of this land is prime material for creating biocorridors. Some has been abandoned for a while and have improved to tertiary forest.
@@ -72,6 +78,9 @@ Orchid research material includes several book of Costa Rican orchids, propagati
 
 ![Orchid research](https://github.com/fede2cr/magrathean_terraforming_services/blob/master/doc/img/research_library/Orquídeas.gif "Orchid research")
 
+## Project diary
+
+A written diary has started for the project, taking into account experiments, techniques and results, and is being updated about once every two days. To match the biodiversity importance and to celebrate the paper experiments being developed for the seed bombs, the diary is made out of elephant dung and helps to protect and elephant sanctuary.
 
 ## Further research
 
@@ -86,3 +95,7 @@ Not all plant work well with this methods. A list of them must be compiled and u
 ### Tapirs
 
 This beautiful american mammal disperses seeds and naturally takes seed out of exogenous dormancy, fertilized and ready to germinate. Even if robotic methods of seed dispersal get to be extremely efficient and cheap, and new techniques are developed for improved germination of complicated species, tapirs must be used as well with the additional benefits of fertilizing and trampling the ground, and as food for endangered felines.
+
+### Pioneer plants
+
+To the moment I haven't found a good source of information about pioneer plants that are also local to Central America.
