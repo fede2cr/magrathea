@@ -7,7 +7,7 @@ This project is about robotic assisted planting through seed bombs instead of ge
 
 ## Some basics
 
-- [Seed bombs](https://github.com/fede2cr/magrathean_terraforming_services/tree/master/doc/Seed_bombs.md): Also called seed ball, is a packet of diverse local seeds, mixing different species as well as different types of plants, in some form of casing, normally a volcanic clay. This are used in a concept called guerrilla gardening, where activist would find undeveloped land in the city and without permission "bomb" it with floral species to improve urban spaces and attract bird and butterflies. I'm experimenting with 3d printed molds for the clay in triangular shapes, and including discarded barley from my brewery, inoculated with mycorrizal fungi.
+- [Seed bombs](https://github.com/fede2cr/magrathean_terraforming_services/tree/master/doc/Seed_bombs.md): Also called seed ball, is a packet of diverse local seeds, mixing different species as well as different types of plants, in some form of casing, normally a volcanic clay. This are used in a concept called **guerrilla gardening**, where activist would find undeveloped land in the city and without permission "bomb" it with floral species to improve urban spaces and attract bird and butterflies. I'm experimenting with 3d printed molds for the clay in triangular shapes, and including discarded barley from my brewery, inoculated with mycorrizal fungi.
 
 - Orchid bullets: Some plant species won't work well under the clay pellet concept known as a seed bomb, so special adaptation will be included for orchids. Instead of hard clay designed to germinate on land and be trowed from aerial drones, they will be shot from a gun close to a paintball gun. It's designed as a sticky mildly nutritional medium that will contain un-germinated orchid seeds, and to be shot at established mature trees. Experimental medium test have started with plantain mash, gelatin, and agar.
 
@@ -77,6 +77,14 @@ Some of the experiments so far are of proper seed retrieval and storing, and ger
 Orchid research material includes several book of Costa Rican orchids, propagation, cultivation, troubleshooting and of orchids of the World.
 
 ![Orchid research](https://github.com/fede2cr/magrathean_terraforming_services/blob/master/doc/img/research_library/Orquídeas.gif "Orchid research")
+
+## Drone selection
+
+After evaluating the security of comercial drones, it is clear we would spend more time looking into ways to secure them so I'm recomending we stay away from proprietary platforms.
+
+Out of the Gonkai scene in Shenzhen are comming out some excelente drone kits based on somewhat industry standards with cheap and quality spare parts, which is very important for long term usage of the drones, so we are currently evaluating S500 drone kits with good results so far.
+
+Due to the long range flights, "plane" type drones might be a better platform for production, but for now we want to develop the tecnology using multi-rotors such as quad copers, due to their ease of use and land, and the hability to hoover while droping seeds, increasing acuracy on seed placement for evaluation porpuses.
 
 ## Project diary
 
