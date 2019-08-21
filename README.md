@@ -1,4 +1,4 @@
-# magrathean_terraforming_services
+# magrathea
 Robotic tools for reversing deforestation, improving biodiversity and forest management
 
 ## Description
@@ -85,10 +85,6 @@ After evaluating the security of comercial drones, it is clear we would spend mo
 Out of the Gonkai scene in Shenzhen are comming out some excelente drone kits based on somewhat industry standards with cheap and quality spare parts, which is very important for long term usage of the drones, so we are currently evaluating S500 drone kits with good results so far.
 
 Due to the long range flights, "plane" type drones might be a better platform for production, but for now we want to develop the tecnology using multi-rotors such as quad copers, due to their ease of use and land, and the hability to hoover while droping seeds, increasing acuracy on seed placement for evaluation porpuses.
-
-## Project diary
-
-A written diary has started for the project, taking into account experiments, techniques and results, and is being updated about once every two days. To match the biodiversity importance and to celebrate the paper experiments being developed for the seed bombs, the diary is made out of elephant dung and helps to protect and elephant sanctuary.
 
 ## Further research
 
